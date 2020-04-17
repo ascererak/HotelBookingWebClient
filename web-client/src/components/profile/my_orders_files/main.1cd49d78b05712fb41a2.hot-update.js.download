@@ -1,0 +1,20 @@
+webpackHotUpdate("main",{
+
+/***/ "./src/config.js":
+/*!***********************!*\
+  !*** ./src/config.js ***!
+  \***********************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = ({
+  //apiDomain: "http://10.40.236.148:5000"
+  apiDomain: "http://localhost:61551"
+});
+
+/***/ })
+
+})
+//# sourceMappingURL=main.1cd49d78b05712fb41a2.hot-update.js.map
